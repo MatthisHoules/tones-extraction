@@ -1,0 +1,7 @@
+tests/
+*.pyc
+__pycache__/
+Results/
+Results_lm/
+Ressources/
+.env
