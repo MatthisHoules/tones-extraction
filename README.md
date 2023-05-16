@@ -15,6 +15,7 @@ This project is currently under development, please report bugs to Matthis Houl√
 
 ### Caution : You need to create a .env file which the following elements
 SPPAS_PATH=<sppas_absolute_path>
+
 PYTHON_CMD=<python_cmd>
 
 for PYTHON_CMD : python for windows users and generally python3 for linux users
