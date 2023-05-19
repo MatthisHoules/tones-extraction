@@ -13,7 +13,7 @@ This project is currently under development, please report bugs to Matthis Houl√
     pip install -r requirements.txt
 ```
 
-### Caution : You need to create a .env file which the following elements
+### Caution : You need to create a .env file which contains the following elements
 ```env
 SPPAS_PATH=<sppas_absolute_path>
 PYTHON_CMD=<python_cmd>
